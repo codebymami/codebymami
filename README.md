@@ -17,4 +17,4 @@ I am passionate about coding and always eager to learn more.
 
 ![mami](https://raw.githubusercontent.com/ezharjan/ezharjan/output/github-contribution-grid-snake.svg)
 
-![DojaCat](https://cdn.sanity.io/images/do2rqv0h/production/3356021b2d743e60cb89b0b97196fb2b2b0b44a0-800x800.gif)
+![DojaCat](https://cdn.sanity.io/images/do2rqv0h/production/3356021b2d743e60cb89b0b97196fb2b2b0b44a0-800x800.gif width="110")
