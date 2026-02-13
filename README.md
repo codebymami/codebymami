@@ -1,4 +1,4 @@
-## About Me ![bongocatt](https://www.pngfind.com/pngs/m/469-4691308_bongo-cat-my-doods-bongo-cat-png-transparent.png)
+## About Me <img src="https://wallpapers-clan.com/wp-content/uploads/2024/03/bongo-cat-meme-gif-desktop-wallpaper-preview.gif" width="40">
 
 Hello, I’m Mami.  
 I am an Information Technology student focused on innovative web solutions and Robotics Programming.  
