@@ -1,10 +1,10 @@
-## About Me <img src="https://wallpapers-clan.com/wp-content/uploads/2024/03/bongo-cat-meme-gif-desktop-wallpaper-preview.gif" width="40">
+## About Me 🖤 <img src="https://wallpapers-clan.com/wp-content/uploads/2024/03/bongo-cat-meme-gif-desktop-wallpaper-preview.gif" width="40">
 
 Hello, I’m Mami.  
 I am an Information Technology student focused on innovative web solutions and Robotics Programming.  
 I am passionate about coding and always eager to learn more.
 
-## 🛠 Tech Stack
+## 💻 Tech Stack
 
 ![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
